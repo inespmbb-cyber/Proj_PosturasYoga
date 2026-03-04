@@ -1,4 +1,4 @@
--- OPERAÇOES DE MANIPULAÇAO DE BASE DE DADOS - SQL
+-- OPERAÇOES DE LEITURA E MANIPULAÇAO DE DADOS - SQL
 
 -- 1. Ver todos os utilizadores registados:
 SELECT * FROM utilizador;
